@@ -4,9 +4,7 @@
  * main - causes an infilate loop
  * Return: 0
  */
-
 int main(void)
-
 {
 	int i;
 
@@ -18,5 +16,4 @@ int main(void)
 	/*}*/
 	printf("infinite loop avoided! \\o/\n");
 	return (0);
-
 }
